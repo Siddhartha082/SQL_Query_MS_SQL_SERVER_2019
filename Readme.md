@@ -1,3 +1,5 @@
+Topics Covered in SQL Query - using MS SQL SERVER 2019 ( Basic to Advance Level )
+
 Connecting to SQL Server
 
 Working with databases
